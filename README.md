@@ -2,6 +2,7 @@
 Any information sent over a communication channel undergoes encryption to so that it reaches only the intended user where it is decrypted for retreiveing the actual information. Data Encryption Standard (DES) is one of the earliest fundamental algorithms of cryptography. Here, a verilog implementation for encryption and decryption on images is presented by utilizing the Electronic Code Block (ECB) mode of DES.
 
 -Image to be encrypted:
+
 <img src="Images/resized" style="float: left;" alt="drawing" width="400"/>
 
 Steps:
